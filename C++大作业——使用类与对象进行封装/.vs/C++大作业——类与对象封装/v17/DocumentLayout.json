@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\chuanprogram\\C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7D1B3B-8B41-428F-9058-9CB862A6CFE0}|C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5\\C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5.vcxproj|E:\\chuanprogram\\C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5\\C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF7D1B3B-8B41-428F-9058-9CB862A6CFE0}|C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5\\C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5.vcxproj|solutionrelative:C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7D1B3B-8B41-428F-9058-9CB862A6CFE0}|C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5\\C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5.vcxproj|E:\\chuanprogram\\C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5\\C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5\\CalculateFuntions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF7D1B3B-8B41-428F-9058-9CB862A6CFE0}|C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5\\C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5.vcxproj|solutionrelative:C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5\\CalculateFuntions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7D1B3B-8B41-428F-9058-9CB862A6CFE0}|C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5\\C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5.vcxproj|E:\\chuanprogram\\C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5\\C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5\\bigNumber.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF7D1B3B-8B41-428F-9058-9CB862A6CFE0}|C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5\\C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5.vcxproj|solutionrelative:C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5\\bigNumber.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7D1B3B-8B41-428F-9058-9CB862A6CFE0}|C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5\\C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5.vcxproj|E:\\chuanprogram\\C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5\\C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5\\bigNumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF7D1B3B-8B41-428F-9058-9CB862A6CFE0}|C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5\\C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5.vcxproj|solutionrelative:C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5\\bigNumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 483,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bigNumber.cpp",
+              "DocumentMoniker": "E:\\chuanprogram\\C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5\\C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5\\bigNumber.cpp",
+              "RelativeDocumentMoniker": "C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5\\bigNumber.cpp",
+              "ToolTip": "E:\\chuanprogram\\C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5\\C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5\\bigNumber.cpp",
+              "RelativeToolTip": "C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5\\bigNumber.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-29T12:06:41.056Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bigNumber.h",
+              "DocumentMoniker": "E:\\chuanprogram\\C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5\\C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5\\bigNumber.h",
+              "RelativeDocumentMoniker": "C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5\\bigNumber.h",
+              "ToolTip": "E:\\chuanprogram\\C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5\\C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5\\bigNumber.h",
+              "RelativeToolTip": "C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5\\bigNumber.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-29T05:17:55.465Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculateFuntions.h",
+              "DocumentMoniker": "E:\\chuanprogram\\C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5\\C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5\\CalculateFuntions.h",
+              "RelativeDocumentMoniker": "C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5\\CalculateFuntions.h",
+              "ToolTip": "E:\\chuanprogram\\C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5\\C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5\\CalculateFuntions.h",
+              "RelativeToolTip": "C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5\\CalculateFuntions.h",
+              "ViewState": "AQIAALMAAAAAAAAAAAAIwMgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-29T12:53:42.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\chuanprogram\\C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5\\C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5\\main.cpp",
+              "RelativeDocumentMoniker": "C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5\\main.cpp",
+              "ToolTip": "E:\\chuanprogram\\C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5\\C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5\\main.cpp",
+              "RelativeToolTip": "C\u002B\u002B\u5927\u4F5C\u4E1A\u2014\u2014\u7C7B\u4E0E\u5BF9\u8C61\u5C01\u88C5\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-28T15:06:35.978Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
