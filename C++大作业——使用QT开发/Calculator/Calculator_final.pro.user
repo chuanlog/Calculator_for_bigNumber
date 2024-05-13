@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 13.0.0, 2024-05-12T10:22:32. -->
+<!-- Written by QtCreator 13.0.0, 2024-05-13T23:17:55. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -242,8 +242,8 @@
     <value type="bool" key="PE.EnvironmentAspect.PrintOnRun">false</value>
     <value type="QString" key="PerfRecordArgsId">-e cpu-cycles --call-graph &quot;dwarf,4096&quot; -F 250</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Calculator_final2</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:E:/github_program/Calculator_for_bigNumber/Calculator_final/Calculator_final.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">E:/github_program/Calculator_for_bigNumber/Calculator_final/Calculator_final.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:E:/github_program/Calculator_for_bigNumber/C++大作业——使用QT开发/Calculator/Calculator_final.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">E:/github_program/Calculator_for_bigNumber/C++大作业——使用QT开发/Calculator/Calculator_final.pro</value>
     <value type="bool" key="ProjectExplorer.RunConfiguration.Customized">true</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
